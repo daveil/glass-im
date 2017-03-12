@@ -1,6 +1,7 @@
 <html>
 <head>
 	<title>Glass IM</title>
+	<?php include('meta.php')?>
 	<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
 	<link rel="stylesheet" href="glass-im.css" />
 </head>
