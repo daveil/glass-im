@@ -1,4 +1,4 @@
-<html>
+<html  manifest="demo.appcache">
 <head>
 	<title>Glass IM</title>
 	<?php include('meta.php')?>

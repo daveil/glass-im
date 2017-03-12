@@ -1,0 +1,11 @@
+CACHE MANIFEST
+
+CACHE:
+bower_components/bootstrap/dist/css/bootstrap.min.css
+glass-im.css
+bower_components/jquery/dist/jquery.min.js
+glass-im.js
+img/OM-Drone.jpg
+
+NETWORK:
+*
