@@ -7,8 +7,8 @@ bower_components/jquery/dist/jquery.min.js
 glass-im.js
 img/OM-Drone.jpg
 
-NETWORK:
-*
 
-FALLBACK:
-/ offline.html
+
+NETWORK:
+http://*
+https://*
