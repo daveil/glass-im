@@ -1,0 +1,82 @@
+<html  manifest="demo.appcache">
+<head>
+	<title>Glass IM</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="white">
+	<link rel="apple-touch-icon" href="img/app-icon.png">
+	<link rel="apple-touch-startup-image" href="img/app-icon.png">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="MobileOptimized" content="width">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-title" content="Glass IM">
+	<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="glass-im.css" />
+</head>
+<body>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-md-4 col-sm-3">
+				<div class="glass-table middle center full height width">
+					<div class="">
+						<h1>OFFLINE DEMO</h1>
+						<ul class="nav nav-pills nav-stacked half width margin-center">
+							<li><a href="#text-img">Text / Images</a></li>
+							<li><a href="#video">Video</a></li>
+							<li><a href="#3D">3D Model</a></li>
+							<li><a href="#hologram">Hologram</a></li>
+							<li><a href="#room-designer">Virtual Room Designer</a></li>
+							
+						</ul>
+					</div>
+				</div>
+				
+			</div>
+			<div class="col-md-8 col-sm-9">
+				<div id="text-img" class="media-item active glass-table middle center full height width">
+					<div class="media-wrapper">
+						<h2>One Mariposa</h2>
+						<img src="img/OM-Drone.jpg" alt="OM Drone">
+						<br /><br />
+						<p class="text-center margin-center half width">
+							Set in one of the few quiet residential areas of Quezon City, One Mariposa is your sanctuary in the city while still being minutes away from all its fun and excitement.
+						</p>
+					</div>
+				</div>
+				<div id="video" class="media-item  glass-table middle center full height width">
+					<div class="media-wrapper">
+						<div class="embed-responsive embed-responsive-16by9">
+						<iframe class=" embed-responsive-item"  src="https://player.vimeo.com/video/201960774" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				
+				<div id="3D" class="media-item  glass-table middle center full height width">
+					<div class="media-wrapper">
+						<div class="embed-responsive embed-responsive-4by3">
+							 OFFLINE
+						</div>
+					</div>
+				</div>
+				<div id="hologram" class="media-item  glass-table middle center full height width">
+					<div class="media-wrapper">
+						<div class="embed-responsive embed-responsive-16by9">
+							 OFFLINE
+						</div>
+					</div>
+				</div>
+				<div id="room-designer" class="media-item  glass-table middle center full height width">
+					<div class="media-wrapper">
+						<div class="embed-responsive embed-responsive-4by3">
+							 OFFLINE
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
+	<script type="text/javascript" src="glass-im.js"></script>
+</body>
+</html> 
