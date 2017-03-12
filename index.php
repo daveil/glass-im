@@ -38,7 +38,7 @@
 				<div id="video" class="media-item  glass-table middle center full height width">
 					<div class="media-wrapper">
 						<div class="embed-responsive embed-responsive-16by9">
-						<iframe class=" embed-responsive-item"  src="https://player.vimeo.com/video/201960774" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+						<!-- <iframe class=" embed-responsive-item"  src="https://player.vimeo.com/video/201960774" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 						</div>
 					</div>
 				</div>
@@ -46,21 +46,21 @@
 				<div id="3D" class="media-item  glass-table middle center full height width">
 					<div class="media-wrapper">
 						<div class="embed-responsive embed-responsive-4by3">
-							<iframe class="margin-center embed-responsive-item" width="640" height="480" src="https://sketchfab.com/models/b9f6dc4ace8f4edc8e136cb5ec33cc97/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+							<!-- <iframe class="margin-center embed-responsive-item" width="640" height="480" src="https://sketchfab.com/models/b9f6dc4ace8f4edc8e136cb5ec33cc97/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>-->
 						</div>
 					</div>
 				</div>
 				<div id="hologram" class="media-item  glass-table middle center full height width">
 					<div class="media-wrapper">
 						<div class="embed-responsive embed-responsive-16by9">
-							<iframe class="margin-center embed-responsive-item"  width="560" height="315" src="https://www.youtube.com/embed/Y60mfBvXCj8" frameborder="0" allowfullscreen></iframe>
+							<!-- <iframe class="margin-center embed-responsive-item"  width="560" height="315" src="https://www.youtube.com/embed/Y60mfBvXCj8" frameborder="0" allowfullscreen></iframe>-->
 						</div>
 					</div>
 				</div>
 				<div id="room-designer" class="media-item  glass-table middle center full height width">
 					<div class="media-wrapper">
 						<div class="embed-responsive embed-responsive-4by3">
-							<iframe class="margin-center embed-responsive-item"  width="560" height="315" src="room-designer/index.php" frameborder="0" allowfullscreen></iframe>
+							<!-- <iframe class="margin-center embed-responsive-item"  width="560" height="315" src="room-designer/index.php" frameborder="0" allowfullscreen></iframe>-->
 						</div>
 					</div>
 				</div>
