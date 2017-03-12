@@ -9,6 +9,8 @@
 .half.width{width:50%;}
 .margin-center{margin:0 auto;}
 
-.media{ display:none;}
-.media.active{display:table;}
-.media-wrapper{}
+.media-item{display:none;}
+.media-item.active{display:table;}
+.media-wrapper{display:inherit;}
+
+iframe {display:block;}
